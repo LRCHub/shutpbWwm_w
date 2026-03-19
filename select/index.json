@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キャンデー / r-906 feat. 鏡音リン",
+  "base_artist": "r-906",
+  "createdAt": "2026-03-19T14:17:30.060921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャンデー (feat. 鏡音リン)",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_キャンデー_(feat._鏡音リン)_r-906.txt"
+    }
+  ]
+}
